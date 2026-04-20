@@ -1,0 +1,34 @@
+( ;
+	( main
+		( "a"
+			nil
+			nil
+		)
+		( ;
+			( ;
+				nil
+				( :=
+					( "z"
+						nil
+						nil
+					)
+					( 6
+						nil
+						nil
+					)
+				)
+			)
+			( ;
+				( return
+					( "z"
+						nil
+						nil
+					)
+					nil
+				)
+				nil
+			)
+		)
+	)
+	nil
+)
